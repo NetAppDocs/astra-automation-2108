@@ -15,7 +15,7 @@ summary:
 [.lead]
 NetApp periodically updates the Astra Control REST API to bring you new features, enhancements, and bug fixes.
 
-== 5 August 2021
+== 5 August 2021 (21.08)
 
 This release includes the introduction of a new Astra deployment model and a major expansion of the REST API.
 
@@ -37,7 +37,7 @@ The OpenAPI endpoints provide access to the current OpenAPI JSON document and ot
 OpenMetrics support::
 The OpenMetrics endpoints provide access to account metrics through the OpenMetrics resource.
 
-== 15 April 2021
+== 15 April 2021 (21.04)
 
 This release includes the following new features and enhancements.
 
