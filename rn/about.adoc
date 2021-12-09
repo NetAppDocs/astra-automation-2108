@@ -20,4 +20,4 @@ See the following pages and sites for more information about this release as wel
 * link:../rn/whats_new.html[What's new with the Astra Control REST API]
 * link:../endpoints/resources.html[Resources and endpoints]
 * link:../information/additional_resources.html[Additional resources]
-* https://docs.netapp.com/us-en/astra-control-center/[Astra Control Center 2108^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/[Astra Control Center 2108 documentation^]
