@@ -13,7 +13,7 @@ summary:
 :imagesdir: ./media/
 
 [.lead]
-The documentation at this site describes the Astra Control REST API and related automation technologies available with the August 2021 (21.08) release of Astra Control. In particular, this release of the REST API is used with the corresponding 21.08 release of Astra Control Center.
+The documentation at this site describes the Astra Control REST API and related automation technologies available with the August 2021 (21.08) and April 2021 (21.04) releases of Astra Control. In particular, this release of the REST API is used with the corresponding 21.08 release of Astra Control Center.
 
 See the following pages and sites for more information about this release as well as previous releases:
 
