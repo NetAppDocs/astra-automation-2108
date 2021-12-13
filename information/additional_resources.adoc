@@ -17,7 +17,7 @@ There are additional resources you can access to get help and find more informat
 
 === Astra
 
-* https://docs.netapp.com/us-en/astra-control-center/[Astra Control Center documentation^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/[Astra Control Center 2108 documentation^]
 +
 Documentation for the Astra Control Center software deployed on the customer premises.
 
